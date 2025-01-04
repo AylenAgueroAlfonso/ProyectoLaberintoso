@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\KAREn\Aylen UH\c# first project\Proyecto MAZE\MAZE\bin\Debug\net8.0\MAZE.exe
+C:\Users\HP\Documents\KAREn\Aylen UH\c# first project\Proyecto MAZE\MAZE\bin\Debug\net8.0\MAZE.deps.json
+C:\Users\HP\Documents\KAREn\Aylen UH\c# first project\Proyecto MAZE\MAZE\bin\Debug\net8.0\MAZE.runtimeconfig.json
+C:\Users\HP\Documents\KAREn\Aylen UH\c# first project\Proyecto MAZE\MAZE\bin\Debug\net8.0\MAZE.dll
+C:\Users\HP\Documents\KAREn\Aylen UH\c# first project\Proyecto MAZE\MAZE\bin\Debug\net8.0\MAZE.pdb
+C:\Users\HP\Documents\KAREn\Aylen UH\c# first project\Proyecto MAZE\MAZE\obj\Debug\net8.0\MAZE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\KAREn\Aylen UH\c# first project\Proyecto MAZE\MAZE\obj\Debug\net8.0\MAZE.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\KAREn\Aylen UH\c# first project\Proyecto MAZE\MAZE\obj\Debug\net8.0\MAZE.AssemblyInfo.cs
+C:\Users\HP\Documents\KAREn\Aylen UH\c# first project\Proyecto MAZE\MAZE\obj\Debug\net8.0\MAZE.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\KAREn\Aylen UH\c# first project\Proyecto MAZE\MAZE\obj\Debug\net8.0\MAZE.dll
+C:\Users\HP\Documents\KAREn\Aylen UH\c# first project\Proyecto MAZE\MAZE\obj\Debug\net8.0\refint\MAZE.dll
+C:\Users\HP\Documents\KAREn\Aylen UH\c# first project\Proyecto MAZE\MAZE\obj\Debug\net8.0\MAZE.pdb
+C:\Users\HP\Documents\KAREn\Aylen UH\c# first project\Proyecto MAZE\MAZE\obj\Debug\net8.0\MAZE.genruntimeconfig.cache
+C:\Users\HP\Documents\KAREn\Aylen UH\c# first project\Proyecto MAZE\MAZE\obj\Debug\net8.0\ref\MAZE.dll

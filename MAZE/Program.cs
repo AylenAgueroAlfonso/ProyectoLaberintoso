@@ -1,12 +1,20 @@
 ﻿using System;
-
-namespace Laberintoso
+namespace Laberinto 
 {
-    class Program
+    class Programa
     {
-        static void Main(string[] args)
+        static void Main ()
         {
-            //Your program starts here...
+
         }
     }
 }
+
+
+
+
+        
+    
+
+
+
