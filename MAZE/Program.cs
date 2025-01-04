@@ -2,10 +2,11 @@
 namespace Laberinto 
 {
     struct Node
-{
-    int x; 
-    int y;
-};
+    {
+        int x; 
+        int y;
+    };
+    
    class LaberintoGenerador 
    {
 public LaberintoGenerador() {
