@@ -1,8 +1,22 @@
 ﻿using System;
 namespace Laberinto 
 {
+    struct Node
+{
+    int x; 
+    int y;
+};
    class LaberintoGenerador 
    {
+public LaberintoGenerador() {
+
+}
+
+static void DFS (int[,] Matriz, int x)
+{
+    int [] fil = [0, 1, 0, -1];
+
+}
 
    }
 
@@ -30,13 +44,7 @@ for (int fila = 0; fila < n; fila++)
 }
         }
     }
+
 }
-
-
-
-
-        
-    
-
 
 
