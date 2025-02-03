@@ -66,7 +66,7 @@ namespace Jugador
         {
             Console.WriteLine("Qué deseas hacer ahora?");
             Console.WriteLine("(i) INFO");
-            Console.WriteLine("(m) MOVER");
+            Console.WriteLine("(m) MOVER FICHA");
             Console.WriteLine("(p) USAR PODER");
 
             string respuesta1 = Console.ReadLine();
@@ -83,7 +83,7 @@ namespace Jugador
                 
             }
 
-            if (respuesta1 != "i" || respuesta1 == "m" || respuesta1 == "p"){
+            if (respuesta1 != "i" || respuesta1 != "m" || respuesta1 != "p"){
                 Jugador.Jugar();
             }
 
@@ -112,3 +112,4 @@ namespace Jugador
     }
 }
 
+//Quiero disculparme con todos los profesores de programación. Gracias por su tiempo.
